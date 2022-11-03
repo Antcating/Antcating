@@ -1,6 +1,6 @@
 ## :v: Hi, I'm [Achating](https://github.com/Antcating)
 *Also known as Yevhenii Fedorchenko*
-- Python/JS full-stack developer.
+- Vue/Nuxt JS Frontend developer.
 <hr>
 
 ![Antcating's GitHub stats][github-stats]
