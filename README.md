@@ -11,9 +11,9 @@
 - ![Windows Badge][windows] 
 - ![Linux Badge][linux]
   - ![Debian Badge][debian]
-    - ![Manjaro Badge][manjaro] 
+    - ![Pop!_OS Badge][pop_os] 
   - ![Arch Linux Badge][archlinux]
-    - ![Pop!_OS Badge][pop_os]
+    - ![Manjaro Badge][manjaro]
 - ![Android Badge][android]
 - ![iOS Badge][ios]
 
