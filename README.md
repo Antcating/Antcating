@@ -1,5 +1,5 @@
 ## :v: Hi, I'm [Achating](https://github.com/Antcating)
-*Also known as Yevhenii Fedorchenko*
+*Also known as Yevhenii Antcating*
 - Frontend developer.
 <hr>
 
