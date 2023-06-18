@@ -1,6 +1,9 @@
 ## :v: Hi, I'm [Achating](https://github.com/Antcating)
 *Also known as Yevhenii Antcating*
-- Frontend developer.
+- Python:
+  - Data science
+- Front-end
+  - Vue, Nuxt
 <hr>
 
 ![Antcating's GitHub stats][github-stats]
