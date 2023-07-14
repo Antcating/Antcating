@@ -6,10 +6,6 @@
   - Vue, Nuxt
 <hr>
 
-![Antcating's GitHub stats][github-stats]
-
-<hr>
-
 ### :computer: I'm using:
 - ![Windows Badge][windows] 
 - ![Linux Badge][linux]
