@@ -7,13 +7,8 @@
 <hr>
 
 ### :computer: I'm using:
-- ![Windows Badge][windows] 
-- ![Linux Badge][linux]
-  - ![Debian Badge][debian]
-    - ![Pop!_OS Badge][pop_os] 
+- ![Linux Badge][linux] 
   - ![Arch Linux Badge][archlinux]
-    - ![Manjaro Badge][manjaro]
-- ![Android Badge][android]
 - ![iOS Badge][ios]
 
 
