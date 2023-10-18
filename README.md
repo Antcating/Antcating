@@ -1,9 +1,7 @@
 ## :v: Hi, I'm [Achating](https://github.com/Antcating)
-*Also known as Yevhenii Antcating*
+*Also known as Yevhenii*
 - Python:
   - Data science
-- Front-end
-  - Vue, Nuxt
 <hr>
 
 ### :computer: I'm using:
