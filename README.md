@@ -1,8 +1,9 @@
 ## Yevhenii Antcating
 
+> Also known as Achating
+
 Making earthquakes go boom
 
-> Also known as Achating
 
 Physics student working on seismology using DAS.
 
