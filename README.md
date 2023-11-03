@@ -2,8 +2,7 @@
 
 > Also known as Achating
 
-Making earthquakes go boom
-
+**Making earthquakes go boom**
 
 Physics student working on seismology using DAS.
 
