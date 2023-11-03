@@ -4,9 +4,9 @@
 
 **Making earthquakes go boom**
 
-Physics student working on seismology using DAS.
+Physics student specializing in seismology and employing Distributed Acoustic Sensing (DAS) technology.
 
-DAS (Distributed Acoustic Sensing) is a rapidly developing technology that uses optical fibers to measure seismic activity.
+My work revolves around using Python, data science techniques, and the Linux operating system to extract meaningful insights from seismic data.
 
 **Skills and interests:**
 
