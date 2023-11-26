@@ -6,7 +6,7 @@
 
 Physics student specializing in seismology and employing Distributed Acoustic Sensing (DAS) technology.
 
-My work revolves around using Python, data science techniques, and the Linux operating system to extract meaningful insights from seismic data.
+My work revolves around using Linux, Python, and data science techniques to extract meaningful insights from seismic data.
 
 **Skills and interests:**
 
