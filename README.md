@@ -14,10 +14,3 @@ My work revolves around using Linux, Python, and data science techniques to extr
 * DAS
 * Linux
 * Python
-* Data analysis
-
-**Contact:**
-
-* Email: yevhenii.fedorchenko@gmail.com
-* GitHub: [@Antcating](https://github.com/Antcating)
-* Telegram: [@Achating](https://t.me/Achating)
